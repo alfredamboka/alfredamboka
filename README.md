@@ -1,10 +1,5 @@
-
 [![Header](https://res.cloudinary.com/dt9t0t8zi/image/upload/v1647543383/amboka/overview-banner-best of_best_oegj7n.png "Header")](https://alfredamboka.github.io/AlfredPorfolio/)
 
-<p>
-  <img src = "https://res.cloudinary.com/dt9t0t8zi/image/upload/v1647543383/amboka/overview-banner-best of_best_oegj7n.png">
-  <img src = "https://res.cloudinary.com/dt9t0t8zi/image/upload/v1647543383/amboka/overview-banner-best of_best_oegj7n.png">
-</p>
 <fontsize= "12">Hello, Welcome to My Github.</font>
 
 A futuristic, determined, self motivated Geospatial engineering student and GIS specialis. Skillwise am handy equipped with surveying, remote sensing, GIS, photogrammetry, engineering design and programming knowledge and technologies. Working with team through collaboration is something I embrace and leading is a norm to me. I am currently looking where I can apply my skills and improve creating impact to the society positively
