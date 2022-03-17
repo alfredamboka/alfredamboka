@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/TrimbleGeospatial-gis-esri-surveyor-MTfHUTznL4ZO6qSc5g" width="100"/>
+  <img src="https://media.giphy.com/media/MTfHUTznL4ZO6qSc5g/giphy.gif" width="100"/>
 </div>
 
 <!--
