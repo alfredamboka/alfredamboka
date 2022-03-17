@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/TrimbleGeospatial-gis-esri-surveyor-MTfHUTznL4ZO6qSc5g" width="100"/>
+</div>
 
 <!--
 **alfredamboka/alfredamboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
