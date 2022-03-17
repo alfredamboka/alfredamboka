@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/MTfHUTznL4ZO6qSc5g/giphy.gif" width="100"/>
-</div>
+[![Header](https://res.cloudinary.com/dt9t0t8zi/image/upload/v1647543383/amboka/overview-banner-best-of_best_oegj7n.png "Header")](https://alfredamboka.github.io/AlfredPorfolio/)
 
 <!--
 **alfredamboka/alfredamboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
