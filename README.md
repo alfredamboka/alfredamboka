@@ -4,6 +4,8 @@
 
 A futuristic, determined, self motivated Geospatial engineering student and GIS specialist. Skillwise am handy equipped with surveying, remote sensing, GIS, photogrammetry, engineering design and programming knowledge and technologies. Working with team through collaboration is something I embrace and leading is a norm to me. I am currently looking where I can apply my skills and improve creating impact to the society positively
 
+------------------------------------------------------------------------------
+
 <u><font size="18">**Programming Languages**</font></u>
 
 <p>
@@ -14,6 +16,8 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   
 </p>
+
+------------------------------------------------------------------------------
 
 <u><font size="18">**Framwork and Libraries**</font></u>
 
@@ -33,6 +37,8 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
+------------------------------------------------------------------------------
+
 <u>**Work Experience**</u>
 
 | Position | Period of work  | Company & Job Type | Job Description  |
@@ -40,24 +46,26 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 | GIS specialist | (01/2022 - 05/2022) | GTS Lab(Vihiga), Attachment | <ul><li> Data Collection using GPS, ESRI survey 123 app, and ODK data collector. </li> <li>Updating attribute data for specific County data into a GIS database </li><li>Spatial analysis and data visualization</li><li>Data manipulation, analysis and presentation of spatial data/geographic information at county level</li><li>Desktop data capturing including digitization of existing maps</li><li>Remote sensing - Image analysis and predictive analysis from such remote sensed data.</li></ul>|
 | GIS specialist | (04/2020 - 06/2020) | Upwork, Freelance | <ul><li> Creating topographical map using Skyline Explorer </li> <li>Digitizing, and updating clients maps</li><li>Spatial analysis and data visualization</li></ul>|
 
+------------------------------------------------------------------------------
 
-<u>**My Contributions**</u>
+<u>**My Github Statistics (Preview)**</u>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfredamboka&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=timcreative&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
+------------------------------------------------------------------------------
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=timcreative&layout=compact&theme=cobalt&hide_border=true" />
+**Featured projects**
 
+------------------------------------------------------------------------------
 
-<u>**Featured projects**</u>
+**Contact Me**
 
-
-
-<u>**Contact Me**</u>
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/alfredamboka) 
-[<img alt = "WhatsApp" src = "https://img.shields.io/badge/-WhatsApp-brightgreen" />](https://wa.me/254746342679){:target="_blank" rel="noopener"}
-
+[<img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=red" alt="WhatAapp Badge"/>](https://wa.me/254746342679)
+[<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/alfred-amboka-91851b196/)
+[<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=orange" alt="Twitter Badge"/>](https://twitter.com/amboka_w)
+[<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>](https://www.facebook.com/amboxan.marknon)
+[<img src="https://img.shields.io/badge/mail-darkred?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>](mailto:amboxan@gmail.com)
 <!--
 **alfredamboka/alfredamboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
