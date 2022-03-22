@@ -36,6 +36,8 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 ------------------------------------------------------------------------------
 
+<div id="contacts" align="center">
+  
 <u><font size="18">**Framwork and Libraries**</font></u>
 
 <p>
@@ -45,6 +47,7 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+ </div>
 <u><font size="18">**Database**</font></u>
 
 <p>
@@ -65,14 +68,31 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 ------------------------------------------------------------------------------
 
+<div id="contacts" align="center">
+  
 <u>**My Github Statistics (Preview)**</u>
+  
+ </div>
 
+<div id="gitstats" align="center">
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alfredamboka&theme=dark&background=000000)](https://git.io/streak-stats)
+  
+ </div>
+ 
+ <div id="languages" align="left">
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=alfredamboka&langs_count=5&theme=tokyonight)]()
+  
+ </div>
+ 
 ------------------------------------------------------------------------------
 
+<div id="contacts" align="center">
+  
 **Featured projects**
+  
+ </div>
 
 ------------------------------------------------------------------------------
 
@@ -82,15 +102,21 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 ------------------------------------------------------------------------------
 
+<div id="contacts" align="center">
+  
 **Contact Me**
+  
+</div>
 
+<div id="contacts" align="center">
+  
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/alfredamboka) 
 [<img src="https://img.shields.io/badge/WhatsApp-brightgreen?style=for-the-badge&logo=whatsapp&logoColor=red" alt="WhatAapp Badge"/>](https://wa.me/254746342679)
 [<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>](https://www.linkedin.com/in/alfred-amboka-91851b196/)
 [<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=orange" alt="Twitter Badge"/>](https://twitter.com/amboka_w)
 [<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>](https://www.facebook.com/amboxan.marknon)
 [<img src="https://img.shields.io/badge/mail-darkred?style=for-the-badge&logo=mail&logoColor=white" alt="Gmail Badge"/>](mailto:amboxan@gmail.com)
-
+  </div>
 
 <!--
 **alfredamboka/alfredamboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
