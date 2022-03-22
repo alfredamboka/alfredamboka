@@ -24,6 +24,8 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
+<u><font size="18">**Database**</font></u>
+
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -33,9 +35,10 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 <u>**Work Experience**</u>
 
-| Upwork | Period of work (04/2020 - 06/2020) |
-|:---------:|:----------------------------------:|
-| GIS specialist | Spatial analysis, digitization, and map compilation |
+| Position | Period of work  | Company & Job Type | Job Description  |
+|:---------:|:---------------:| :---------------: | :----------------------: |
+| GIS specialist | (01/2022 - 05/2022) | GTS Lab(Vihiga), Attachment | <ul><li> Data Collection using GPS, ESRI survey 123 app, and ODK data collector. </li> <li>Updating attribute data for specific County data into a GIS database </li><li>Spatial analysis and data visualization</li><li>Data manipulation, analysis and presentation of spatial data/geographic information at county level</li><li>Desktop data capturing including digitization of existing maps</li><li>Remote sensing - Image analysis and predictive analysis from such remote sensed data.</li></ul>|
+| GIS specialist | (04/2020 - 06/2020) | Upwork, Freelance | <ul><li> Creating topographical map using Skyline Explorer </li> <li>Digitizing, and updating clients maps</li><li>Spatial analysis and data visualization</li></ul>|
 
 
 <u>**My Contributions**</u>
@@ -53,7 +56,7 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 <u>**Contact Me**</u>
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/alfredamboka) 
-
+[<img alt = "WhatsApp" src = "https://img.shields.io/badge/-WhatsApp-brightgreen" />](https://wa.me/254746342679){:target="_blank" rel="noopener"}
 
 <!--
 **alfredamboka/alfredamboka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
