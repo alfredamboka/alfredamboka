@@ -36,7 +36,7 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 ------------------------------------------------------------------------------
 
-<div id="contacts" align="center">
+<div id="fremework" align="center">
   
 <u><font size="18">**Framwork and Libraries**</font></u>
 
@@ -68,7 +68,7 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 ------------------------------------------------------------------------------
 
-<div id="contacts" align="center">
+<div id="statspreview" align="center">
   
 <u>**My Github Statistics (Preview)**</u>
   
@@ -102,7 +102,7 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 ------------------------------------------------------------------------------
 
-<div id="contacts" align="center">
+<div id="cont-title" align="center">
   
 **Contact Me**
   
