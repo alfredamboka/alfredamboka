@@ -50,7 +50,10 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 </p>
 
  </div>
-<u><font size="18">**Database**</font></u>
+ 
+ -----------------------------------------------------------------------------
+ 
+<u>**Database**</u>
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
