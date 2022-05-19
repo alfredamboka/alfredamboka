@@ -45,7 +45,6 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
@@ -104,6 +103,17 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 <div align="center">
   <img src="https://res.cloudinary.com/dt9t0t8zi/image/upload/v1647935040/amboka/programming_gqau4u.gif" width="600" height="300"/>
 </div>
+
+------------------------------------------------------------------------------
+
+<div id ="other-details" align = "left">
+  
+  **Other Details**
+  
+  * [ ] Currently am Learning advance machine learning, CNN, Deep learning, Node JS
+  * [ ] Fun fact! I have been an introvert for years but now I am working on it and improve my public speaking skills. You are welcome to help me through this journey.
+  
+  </div>
 
 ------------------------------------------------------------------------------
 
