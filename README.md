@@ -19,7 +19,7 @@
 
 <font size= "12"> **Hello, Welcome to My Github.** </font>
 
-A futuristic, determined, self motivated Geospatial engineering student and GIS specialist. Skillwise am handy equipped with surveying, remote sensing, GIS, photogrammetry, engineering design and programming knowledge and technologies. Working with team through collaboration is something I embrace and leading is something am developing at my pace. I am currently looking where I can apply my skills and improve creating impact to the society positively.
+A futuristic, determined, self motivated Geospatial engineering student and GIS specialist. Skillwise am handy equipped with surveying, remote sensing, GIS, photogrammetry, engineering design and programming knowledge and technologies. Working with team through collaboration is something I embrace and leadership is something am developing at my pace. I am currently looking where I can apply my skills and improve creating impact to the society positively.
 
 ------------------------------------------------------------------------------
 
