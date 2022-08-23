@@ -112,7 +112,7 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   
   * [ ] Currently am Learning advance machine learning, CNN, Deep learning, Node JS
   * [ ] Fun fact! I have been an introvert for years but now I am working on it and improve my public speaking skills. You are welcome to help me through this journey.
-  *[ ] Participated in a  **Hackathon Project** that was dealing with patient pattern prediction for HIV patients. This project was organized by **Kenya Health Management Information Syastem (KeHMIS)** in partnership with **JKUAT university**. It happened between 17th june and 20th july 2022.
+  * [ ] Participated in a  **Hackathon Project** that was dealing with patient pattern prediction for HIV patients. This project was organized by **Kenya Health Management Information Syastem (KeHMIS)** in partnership with **JKUAT university**. It happened between 17th june and 20th july 2022.
   
   </div>
 
