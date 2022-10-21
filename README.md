@@ -44,7 +44,7 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />-->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular JS-FFFFFF?style=for-the-badge&logo=angularjs&logoColor=orange" />
