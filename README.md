@@ -46,6 +46,8 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/ReactJs-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular JS-FFFFFF?logo=angularjs&logoColor=orange" />
 </p>
 
  </div>
@@ -58,8 +60,6 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Angular JS-FFFFFF?logo=angularjs&logoColor=orange" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
