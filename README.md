@@ -19,7 +19,7 @@
 
 <font size= "12"> **Hello, Welcome to My Github.** </font>
 
-A futuristic, determined, self motivated Geospatial engineering student and GIS specialist. Skillwise am handy equipped with surveying, remote sensing, GIS, photogrammetry, engineering design and programming knowledge and technologies. Working with team through collaboration is something I embrace and leadership is something am developing at my pace. I am currently looking where I can apply my skills and improve creating impact to the society positively.
+A futuristic, determined, self-motivated Geospatial engineering student and GIS specialist. Skillwise I am handily equipped with surveying, remote sensing, GIS, photogrammetry, engineering design, and programming knowledge and technologies. Working with a team through collaboration is something I embrace and leadership is something am developing at my pace. I am currently looking for where I can apply my skills and improve creating an impact on society positively.
 
 ------------------------------------------------------------------------------
 
@@ -117,12 +117,15 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   * [ ] Participated in a  **Hackathon Project** that was dealing with patient pattern prediction for HIV patients. This project was organized by **Kenya Health Management Information Syastem (KeHMIS)** in partnership with **JKUAT university**. It happened between 17th june and 20th july 2022.
   
   </div>
-  ##Important
+  
+  <u>**Important**</u>
+  
 <!--
  - [My Classification Code](https://colab.research.google.com/drive/1fjnwhoZpVHP-j4kdLVjbi5uKjUnGK3QR?usp=sharing )
 - [Main Project Code](https://colab.research.google.com/drive/1_tiPHysrdmF18y9qvHBT9DQ6u0MsKHnZ?usp=sharing) -->
+
   ---
-------------------------------------------------------------------------------
+ 
 
 <div id="cont-title" align="center">
   
