@@ -117,11 +117,11 @@ A futuristic, determined, self motivated Geospatial engineering student and GIS 
   * [ ] Participated in a  **Hackathon Project** that was dealing with patient pattern prediction for HIV patients. This project was organized by **Kenya Health Management Information Syastem (KeHMIS)** in partnership with **JKUAT university**. It happened between 17th june and 20th july 2022.
   
   </div>
-  ## Important
-
+  ##Important
+<!--
  - [My Classification Code](https://colab.research.google.com/drive/1fjnwhoZpVHP-j4kdLVjbi5uKjUnGK3QR?usp=sharing )
-
-- [Main Project Code](https://colab.research.google.com/drive/1_tiPHysrdmF18y9qvHBT9DQ6u0MsKHnZ?usp=sharing)
+- [Main Project Code](https://colab.research.google.com/drive/1_tiPHysrdmF18y9qvHBT9DQ6u0MsKHnZ?usp=sharing) -->
+  ---
 ------------------------------------------------------------------------------
 
 <div id="cont-title" align="center">
